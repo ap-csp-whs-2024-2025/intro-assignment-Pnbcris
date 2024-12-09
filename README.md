@@ -10,6 +10,9 @@
 
 ## About Me
 Answer the questions below
-* Something interesting about me is
-* Ask Mr. Vu anything:
-* List your sports and extracurriculars you participate in
+# Something interesting about me is
+* I have yet to learn how to swim!!
+# Ask Mr. Vu anything:
+* what was the first programming language you learned?
+# List your sports and extracurriculars you participate in
+* Robotics, Photography editing & Engineering projects
